@@ -1,0 +1,42 @@
+.settings_btn_wrapper {
+    display: flex;
+    padding: 15px;
+    justify-content: center;
+    border: 3px solid aqua;
+    border-radius: 10px;
+    margin-top: 15px;
+    background-color: lightslategray;
+}
+
+.title {
+    margin: 0;
+}
+
+.settings_block {
+    border: 3px solid aqua;
+    border-radius: 10px;
+    background-color: lightslategray;
+}
+
+.input_block {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+}
+
+.settings_input {
+    text-align: center;
+    font-weight: bold;
+    width: 100px;
+    height: 20px;
+    background-color: mintcream;
+    border-radius: 7px;
+    outline: none;
+    border: 1px solid aqua;
+}
+
+.error_input {
+    border: 1px solid red;
+    background-color: indianred;
+}
