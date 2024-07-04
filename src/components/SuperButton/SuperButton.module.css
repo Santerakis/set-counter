@@ -1,0 +1,20 @@
+.button {
+    margin: 10px;
+    width: 100px;
+    height: 35px;
+    border:2px solid aqua;
+    border-radius: 10px;
+    background-color: aqua;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.disabled {
+    opacity: 50%;
+    cursor: default;
+}
+
+
+
