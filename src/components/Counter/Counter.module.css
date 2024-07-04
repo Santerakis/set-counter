@@ -1,0 +1,17 @@
+.counter {
+    border: 3px solid aqua;
+    border-radius: 10px;
+    background-color: lightslategray;
+
+}
+
+.counter_default {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.counter_title {
+    color: red;
+    font-size: 22px;
+    font-weight: bold;
+}
